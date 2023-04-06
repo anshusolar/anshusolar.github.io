@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,22 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Brief Bio 
+======
+
+Anshu Kumari (Singh) is a NASA postdoctoral program fellow in the Solar Physics Laboratory (671), working with Dr. Nat Gopalswamy. She received an integrated M.Tech-PhD in Astronomical Instrumentation from the Gauribidanur Radio Observatory (GRO) of the Indian Institute of Astrophysics (IIA), India. Before joining Goddard Space Flight Center (GSFC), Dr. Kumari was a postdoctoral researcher at the Space Physics group of the University of Helsinki. In her PhD years, she worked on designing a wideband, near-ionospheric cut-off ground-based radio telescope for Spectro-polarimetric observations of the Sun at low frequencies. She combined this instrument's data with other space and ground-based instruments to constrain the elusive coronal magnetic fields associated with solar eruptions. Dr. Kumari also developed a semi-automated imaging pipeline for interferometric observations of the solar corona with the Low Frequency Array (LOFAR) at ASTRON, the Netherlands. In Helsinki, she worked on data-driven time-dependent magneto-frictional modeling (TMFM) of solar flux ropes, and solar radio observations from novel radio telescopes to state-of-the-art coronal modeling and remote sensing observations.
+
+At GSFC, her NPP project focuses on proof of concept study of the Faraday Effect Tracker of Coronal and Heliospheric Structures (FETCH) onboard the next-generation multi-spacecraft comprehensive mission concept, Multiview Observatory for Solar-Terrestrial Science (MOST). Dr. Kumari has expertise in radio instrumentation, numerical simulations, and observational data.
+
+Research Interests 
+======
+
+* Coronal mass ejections, Solar and non-solar transients
+* MHD/MFM Modeling of Solar flux ropes
+* Astronomical Instrumentation
+* Radio Astronomy
+
 
 Education
 ======
@@ -52,6 +68,15 @@ Work experience
   * Supervisor: Dr. C. Kathiravan
 
 
+Projects 
+======
+
+* FETCH (The Faraday Effect Tracker of Coronal and Heliospheric structures ) in collaboration with NASA, Planetary Science Institute, National Solar Observatory, Naval Research Laboratory.
+* RadioCME (Radio Observations as a Tool to Investigate the Space Weather Impact of Coronal Mass Ejections) with University of Helsinki.
+* SolMAG (Unravelling The Structure and Evolution of Solar Magnetic Flux Ropes and Their Magnetosheaths) with University of Helsinki.
+* FORESAIL (Finnish Centre of Excellence in Research of Sustainable Space).
+
+
 Skills
 ======
 * Electronics
@@ -72,6 +97,49 @@ Observing and Field Experience
 * Low-frequency Radio Observations of the Solar Corona on $~$200 km Long Interferometer Baseline at Gauribidanur Radio Observatory and Indian Mesospheric-Stratospheric-Tropospheric Radar, India (2016-2017)
 * Measurement of antenna patterns, performance and polarisation properties at Gauribidanur Radio Observatory (2015-2018)
 
+Professional Societies 
+======
+
+* Member -  ISWAT - International Space Weather Action Teams, 2021 - Present
+
+Professional Service 
+======
+
+* Advances in Space Science
+* Astrophysics and Space Science
+* Physica Scripta
+* Journal of Atmospheric and Solar-Terrestrial Physics
+* MDPI Journal
+* Remote sensing
+* Universe
+
+
+Awards
+======
+* Awarded NASA Postdoctoral Program (NPP) Fellowship.
+* Young Scientist Award in Commission J (Radio Astronomy) at URSI-RCRS 2022 held at IIT Indore.
+* ASI Justice Oak thesis award 2021 Honourable Mention during Astronomical Society of India Meeting, 2022.
+* K. D. Abhyankar Best presentation of thesis 2021 during Astronomical Society of India Meeting.
+* Young Scientist Award 2021 by Madhawi-Shyam Educational Trust.
+* Awarded visiting scholar grant, Royal Observatory of Belgium, Belgium in 2020 (postponed due to COVID-19).
+* SCOSTEP travel grant award to attend COSPAR KSO Workshop at Kodaikanal Solar Observatory, India in 2020.
+* Awarded Solar Science with the MWA Post-Doctoral Fellowship at National Centre for Radio Astrophysics, Tata Institute of Fundamental Research (NCRA-TIFR), India in 2019 (did not join).
+* Awarded Summer Fellowship at ASTRON, the Netherlands in 2018.
+* SCOSTEP travel grant award to attend COSPAR Capacity building workshop at Mekele, Ethiopia in 2018.
+* Awarded Radionet travel grants to attend CESRA - 2018.
+* Awarded 32 hours of observation with the uGMRT.
+* Best Poster award in Astronomical Instrumentation at ASI - 2016.
+* Best Poster award in Commission J (Radio Astronomy) at URSI-RCRS - 2015.
+* Qualified GATE-2013 and -2014 (National eligibility exam for Engineers in India) with 98.83 percentile.
+* University 7th rank holder of 2008 - 2012 batch in Electronics & Communication
+
+Mentorship
+======
+
+* Master's thesis co-advisor for 2 Masters Students: 2018-2019.
+* Bachelor's thesis co-advisor for 3 Bachelor Students: 2016-2019
+* Summer Intern co-advior/advisor for 2 Students: 2020, 2021, 2022.
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -90,6 +158,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
