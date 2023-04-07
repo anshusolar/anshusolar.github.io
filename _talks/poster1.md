@@ -1,7 +1,7 @@
 ---
 title: "New Evidence for a Coronal Mass Ejection-driven High Frequency Type II Burst near the Sun"
 collection: talks
-type: "Conference proceedings talk"
+type: "Poster"
 permalink: /talks/poster1
 venue: "International Astronomical Union Meeting 340, 19-23 Feb, 2018"
 date: 2018-03-20
