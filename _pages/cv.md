@@ -11,8 +11,6 @@ redirect_from:
 
 Brief Bio 
 ======
-
-
 Anshu Kumari (Singh) is a NASA postdoctoral program fellow in the Solar Physics Laboratory (671), working with Dr. Nat Gopalswamy. She received an integrated M.Tech-PhD in Astronomical Instrumentation from the Gauribidanur Radio Observatory (GRO) of the Indian Institute of Astrophysics (IIA), India. Before joining Goddard Space Flight Center (GSFC), Dr. Kumari was a postdoctoral researcher at the Space Physics group of the University of Helsinki. In her PhD years, she worked on designing a wideband, near-ionospheric cut-off ground-based radio telescope for Spectro-polarimetric observations of the Sun at low frequencies. She combined this instrument's data with other space and ground-based instruments to constrain the elusive coronal magnetic fields associated with solar eruptions. Dr. Kumari also developed a semi-automated imaging pipeline for interferometric observations of the solar corona with the Low Frequency Array (LOFAR) at ASTRON, the Netherlands. In Helsinki, she worked on data-driven time-dependent magneto-frictional modeling (TMFM) of solar flux ropes, and solar radio observations from novel radio telescopes to state-of-the-art coronal modeling and remote sensing observations.
 
 At GSFC, her NPP project focuses on proof of concept study of the Faraday Effect Tracker of Coronal and Heliospheric Structures (FETCH) onboard the next-generation multi-spacecraft comprehensive mission concept, Multiview Observatory for Solar-Terrestrial Science (MOST). Dr. Kumari has expertise in radio instrumentation, numerical simulations, and observational data.
