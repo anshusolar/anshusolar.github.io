@@ -58,6 +58,14 @@ Work experience
   * Supervisor: Dr. C. Kathiravan
 
 
+Associated Projects
+======
+* FETCH (The Faraday Effect Tracker of Coronal and Heliospheric structures ) in collaboration with NASA, Planetary Science Institute, National Solar Observatory, Naval Research Laboratory.
+* RadioCME (Radio Observations as a Tool to Investigate the Space Weather Impact of Coronal Mass Ejections) with University of Helsinki.
+* SolMAG (Unravelling The Structure and Evolution of Solar Magnetic Flux Ropes and Their Magnetosheaths) with University of Helsinki.
+* FORESAIL (Finnish Centre of Excellence in Research of Sustainable Space).
+
+
 Skills
 ======
 * Electronics
