@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Welcome !
+
 I am an Engineer-turned-Radio Astronomer/Solar Physicist, currently working on Space-based intrumentation and Solar eruptions. At present, I am a NASA Postdoctoral Program (NPP) Fellow at the National Aeronautics and Space Administration (NASA) / Goddard Space Flight Center (GSFC). 
 
 I am alumnus of the Indian Institute of Astrophysics (IIAp), Bengaluru and University of Calcutta (CU), India. I did integrated M.Tech and PhD from IIA-CU in 2020 in Astronomical Intrumentation. 
