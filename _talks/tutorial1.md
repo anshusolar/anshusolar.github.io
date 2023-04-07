@@ -8,4 +8,5 @@ date: 2020-01-11
 location: "Kodaikanal Solar Observatory (KSO), India"
 ---
 
-Hands-on Tutorial on data from vaiours instruments at [Gauribidanur Radio Observatory (GRO).] (https://www.iiap.res.in/COSPAR_KSO2020/)
+Hands-on Tutorial on data from vaiours instruments at Gauribidanur Radio Observatory (GRO).
+ <a href="https://www.iiap.res.in/COSPAR_KSO2020/">More Details here</a> 

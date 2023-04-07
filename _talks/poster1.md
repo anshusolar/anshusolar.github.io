@@ -1,11 +1,11 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "New Evidence for a Coronal Mass Ejection-driven High Frequency Type II Burst near the Sun"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+permalink: /talks/poster1
+venue: "International Astronomical Union Meeting 340, 19-23 Feb, 2018"
+date: 2018-03-20
+location: "Jaipur, India"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+<a href="https://www.iau.org/science/meetings/past/symposia/1314/">More Details here</a> 
